@@ -57,6 +57,7 @@ docker run -d --name banbot -p 8000:8000 -v /root:/root\
 
 ### Document
 Please go to [BanBot Website](https://www.banbot.site/) for documents.
+也可以使用这个地址：https://www.banbot.site/zh-CN/guide/start。查看中文文档。
 
 ### Contributing
 Follow the [How to Contribute](/doc/contribute.md). Please do get hesitate to get touch via the [Discord](https://discord.com/invite/XXjA8ctqga) Chat to discuss development, new features, and the future roadmap.  
